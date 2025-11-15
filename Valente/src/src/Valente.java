@@ -4,7 +4,7 @@ public class Valente {
 
 	public static void main(String[] args) {
 		
-		System.out.println("buceta fudida");
+		System.out.println("buceta fudida profissional");
 
 	}
 
