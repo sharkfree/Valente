@@ -4,7 +4,7 @@ public class Valente {
 
 	public static void main(String[] args) {
 		
-		System.out.println("buceta ");
+		System.out.println("buceta procura");
 
 	}
 
