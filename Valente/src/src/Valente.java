@@ -7,11 +7,9 @@ public class Valente {
 
 
 		System.out.println("buceta procura assistencia de pau dourado "+
-<<<<<<< HEAD
-		"de ouro gostoso bonzao tarado  do caralho de ouro");
-=======
-		"de ouro gostoso bonzao tarado  do caralho dourado");
->>>>>>> branch 'master' of https://github.com/sharkfree/Valente.git
+
+		"de ouro gostoso bonzao tarado  do caralho de ouro  dourado");
+
 
 
 
