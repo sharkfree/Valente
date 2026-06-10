@@ -7,7 +7,10 @@ public class Valente {
 
 
 		System.out.println("buceta procura assistencia de pau dourado "+
-		"de ouro gostoso bonzao tarado  do caralho de ouro dourado vadia tarado");
+
+		"de ouro gostoso bonzao tarado  do caralho de ouro dourado vadia tarado profissional amante ");
+
+
 
 
 
