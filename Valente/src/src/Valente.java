@@ -10,7 +10,7 @@ public class Valente {
 
 
 		"de ouro gostoso bonzao tarado  do caralho de ouro dourado"
-		+ " lindo do  gostoso do caralho profissional pau de");
+		+ " lindo do  gostoso do caralho profissional pau de dourado");
 
 
 
